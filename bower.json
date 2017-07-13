@@ -1,0 +1,27 @@
+{
+  "name": "d3-screeplot",
+  "version": "v1.0.0",
+  "homepage": "https://github.com/arpitnarechania/d3-screeplot",
+  "authors": [
+    "Arpit Narechania <arpitnarechania@gmail.com>"
+  ],
+  "description": "Open Source JavaScript Library to render Screeplot and Pareto lines using D3.js",
+  "main": "",
+  "keywords": [
+    "screeplot",
+    "scree",
+    "pareto",
+    "d3.js",
+    "visualization",
+    "charts",
+    "open-source"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
